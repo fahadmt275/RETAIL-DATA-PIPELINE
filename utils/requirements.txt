@@ -1,0 +1,3 @@
+google-cloud-storage  # For interacting with GCS
+# google-cloud-bigquery  # For BigQuery operations
+# google-cloud-dataproc  # For Dataproc cluster and job management
