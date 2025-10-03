@@ -22,7 +22,7 @@ MAIN_QUERY = read_sql_file(SQL_FILE_PATH_3)
 
 # Define default arguments
 ARGS = {
-    "owner": "SHAIK SAIDHUL",
+    "owner": "Fahad MT",
     "start_date": None,
     "depends_on_past": False,
     "email_on_failure": False,
