@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Airflow
+airflow.cfg
+unittests.cfg
+logs/
+*.airflow

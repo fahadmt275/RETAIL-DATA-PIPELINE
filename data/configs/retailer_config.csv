@@ -1,0 +1,2 @@
+database,datasource,tablename,loadtype,watermark,is_active,targetpath
+retailer,retailer_db,online_retail,Full Load,updated_at,1,landing/retailer-db/online_retail
