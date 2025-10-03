@@ -20,6 +20,7 @@ ALTER TABLE `singular-node-473906-k7.intermediate.online_retail_clean`
 SET OPTIONS (require_partition_filter = TRUE);
 
 
+
 --Step 2: Update Existing Active Records if There Are Changes and insert new records
 MERGE `singular-node-473906-k7.intermediate.online_retail_clean` T
 USING (
